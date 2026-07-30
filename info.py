@@ -102,19 +102,19 @@ LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1002613678945')) #Verificat
 LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002358578500')) #If Anyone Set Your Bot In Any Group And Set Shortner In That Group Then In This Channel The All Details Come
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://telegra.ph/file/9ecc5d6e4df5b83424896.jpg")
 
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/how_to_download_moviesda/79")   # Tutorial link for verification
-TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/how_to_download_moviesda/79")   # Second tutorial link for verification
-TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/how_to_download_moviesda/79")   # Third tutorial link for verification
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/how_to_download_moviesda/77")   # Tutorial link for verification
+TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/how_to_download_moviesda/77")   # Second tutorial link for verification
+TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/how_to_download_moviesda/77")   # Third tutorial link for verification
 
 # Verification (Must Fill All Veriables. Else You Got Error
-SHORTENER_API = environ.get("SHORTENER_API", "da518857c4f049067c737dff4c770e1d05cc3e20") # Shortener API key
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "babylinks.in") # Shortener website
+SHORTENER_API = environ.get("SHORTENER_API", "64cd0169cc09ecc7fcf48d5725b85faa8bced0de") # Shortener API key
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "liteshort.com") # Shortener website
 
-SHORTENER_API2 = environ.get("SHORTENER_API2", "da518857c4f049067c737dff4c770e1d05cc3e20")  # Shortener API key for second website
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "babylinks.in") # Shortener website for second website
+SHORTENER_API2 = environ.get("SHORTENER_API2", "64cd0169cc09ecc7fcf48d5725b85faa8bced0de")  # Shortener API key for second website
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "liteshort.com") # Shortener website for second website
 
-SHORTENER_API3 = environ.get("SHORTENER_API3", "da518857c4f049067c737dff4c770e1d05cc3e20")  
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "babylinks.in") # Shortener website for third website
+SHORTENER_API3 = environ.get("SHORTENER_API3", "64cd0169cc09ecc7fcf48d5725b85faa8bced0de")  
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "liteshort.com") # Shortener website for third website
 
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "600")) # Time gap for two-step verification in seconds (default: 20 minutes)
 THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "900"))    
