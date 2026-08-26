@@ -229,7 +229,16 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/Moviesda_Linkz_Officialz">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/Moviesda_Linkz_Officialz">[ Mᴏᴠɪᴇsᴅᴀ Lɪɴᴋᴢ Oғғʟɪᴄɪᴀʟ ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/Moviesda_LinkZz"><b>🎬{file_name}</b></a>
+    
+<b><b>╭━━━〔 ✨ ᴊᴏɪɴ ᴜs ✨ 〕━━━╮</b>
+<b>┃</b> 🌟 <a href="https://t.me/Moviesda_LinkZz">@Moviesda_LinkZz</a>
+<b>┃</b> 🛡 <a href="https://t.me/+NIiMi0e1p6FmYjM1">@Moviesda_Backup_Office</a>
+<b>┃</b> 🍿 <a href="https://t.me/+o_w2Dp2FdcE5YmRl">@DailyMovieUpdate</a>
+<b>┃</b> 🔎 <a href="https://t.me/Moviesda_search_group_HD">@Movie Requests Group</a>
+<b>╰━━━〔 💫 ᴊᴏɪɴ ᴜs 💫 〕━━━╯</b></b>
+
+<b>🚀 Join Now ➜ <a href="https://t.me/Moviesda_LinkZz">Moviesda_LinkZz</a> ❤️</b></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
