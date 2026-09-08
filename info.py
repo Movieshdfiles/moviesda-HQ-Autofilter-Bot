@@ -228,9 +228,9 @@ else:
     ON_HEROKU = False
 HAS_SSL = bool(getenv('HAS_SSL', True))
 if HAS_SSL:
-    URL = "https://drab-shela-movieblaster-d76d168a.koyeb.app/".format(FQDN)
+    URL = "https://cooperative-eimile-movieblaster-09833295.koyeb.app/".format(FQDN)
 else:
-    URL = "https://drab-shela-movieblaster-d76d168a.koyeb.app/".format(FQDN)
+    URL = "https://cooperative-eimile-movieblaster-09833295.koyeb.app/".format(FQDN)
 
 # ============================
 # Reactions Configuration
